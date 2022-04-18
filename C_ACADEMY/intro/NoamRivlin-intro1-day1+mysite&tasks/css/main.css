@@ -1,0 +1,71 @@
+body {
+    font-size: large;
+    text-align: center;
+    background-color: black;
+    color: rgb(135, 154, 171);
+
+
+}
+
+.myFace {
+
+    height: 300px;
+    margin: -130px 0px 0px 0px;
+
+
+}
+
+.face:hover {
+    background-color: rgb(71, 63, 49);
+}
+
+.face {
+    border-radius: 10px;
+    border: 5px solid black;
+    overflow: hidden;
+
+}
+
+.intro {
+    background-color: chocolate;
+    color: black;
+}
+
+.coding {
+    color: aqua;
+}
+
+.ul {
+    list-style-position: inside;
+}
+
+.musicButton {
+    font-size: xx-large;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    border: 4px solid rgb(70, 8, 8);
+    transition-duration: 0.3s;
+    padding: 10px;
+}
+
+.musicButton:hover {
+    border-color: blueviolet;
+
+
+}
+
+.info {
+
+    padding: 0px;
+    margin-top: 10px;
+}
+
+
+.tableTaskDay2 td {
+    border: 1px solid;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}

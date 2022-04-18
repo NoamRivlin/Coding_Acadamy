@@ -1,0 +1,26 @@
+body {
+    background-image: url(../image/Drunk-rick-sanchez-paint-by-number.jpg);
+    background-size: 100% 100%;
+    text-align: center;
+
+}
+
+.intro {
+    color: lightgreen;
+}
+
+table {
+    margin: auto;
+}
+
+
+button:hover {
+    background-color: lightsalmon;
+    border: 4px solid rgb(70, 8, 8);
+    transition-duration: 0.1s;
+    color: blue;
+}
+
+button {
+    border-radius: 10px;
+}
